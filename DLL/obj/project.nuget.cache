@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2mReR2N87G/N9C3ROgQ2PwJv9jaUuMRyFTGNqBCBAw/uz3CSWJkfpeheHhp3sa9+9P72PB7CTWz+TFNhcPneTw==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\DLL\\DLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

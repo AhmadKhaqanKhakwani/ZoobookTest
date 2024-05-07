@@ -1,0 +1,17 @@
+C:\Work\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Work\BLL\bin\Debug\net6.0\BLL.dll
+C:\Work\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Work\BLL\bin\Debug\net6.0\DLL.dll
+C:\Work\BLL\bin\Debug\net6.0\Model.dll
+C:\Work\BLL\bin\Debug\net6.0\DLL.pdb
+C:\Work\BLL\bin\Debug\net6.0\Model.pdb
+C:\Work\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Work\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Work\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Work\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Work\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+C:\Work\BLL\obj\Debug\net6.0\BLL.dll
+C:\Work\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Work\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Work\BLL\obj\Debug\net6.0\ref\BLL.dll
